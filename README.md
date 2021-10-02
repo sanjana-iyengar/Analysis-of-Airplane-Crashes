@@ -6,3 +6,15 @@ Aviation accident cases can be extremely complex because it might lead to a lot 
 
 The aim of this project is to have a better understanding of the data. We explore the data and try to find some substantial patterns.
 In order to have a structural approach in the analysis - we ask ourselves questions during the exploration phase and try to logically explain the observed trends.
+
+Using aircraft crash data from between 1908-2008, we will look for patterns in crashes and linked fatalities to try and ascertain the safest methods or guidelines for air travel.
+
+### Motivations
+Aircraft today play a large role in our society, benefiting people in many ways:
+- Fast national and international travel
+- Global cargo transportation 
+- Faster mail delivery
+- Military transportation
+- Conducive to greater globalization of industry 
+
+Throughout the history of aircraft development speed safety and reliability have all made massive advances. With all the aviation advances of the past century accidents and fatalities are still common enough to cause concern for some travelers. We seek to explore crash data to find what aircraft or operating organizations may be of more or less concern.
